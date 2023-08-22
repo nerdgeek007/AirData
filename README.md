@@ -11,4 +11,4 @@
  
 I have used Tailwind CSS mostly but also I have used custom CSS modules for Loaders. It took 2 days for me to make this (around 7-8 hours) work.
 
-## Live Link-
+## Live Link- https://air-data-seven.vercel.app/
